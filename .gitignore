@@ -1,0 +1,12 @@
+linux
+linux*.tar.xz
+.tmp/*
+.lock
+*.o
+*.o.*
+*.cmd
+*.symvers
+*.order
+*.ko
+*.mod
+*.mod.*
